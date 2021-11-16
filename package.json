@@ -15,7 +15,7 @@
   "license": "MIT",
   "dependencies": {
     "@google-cloud/translate": "^4.1.1",
-    "aws-sdk": "^2.437.0",
+    "aws-sdk": "^2.814.0",
     "canvas": "^2.4.1",
     "cheerio": "^1.0.0-rc.2",
     "discord.js": "^11.4.2",
