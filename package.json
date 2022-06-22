@@ -24,7 +24,7 @@
     "ffmpeg": "0.0.4",
     "ffmpeg-binaries": "^4.0.0",
     "form-data": "^2.3.3",
-    "got": "^9.6.0",
+    "got": "^11.8.5",
     "html-to-text": "^4.0.0",
     "image-to-base64": "^2.0.1",
     "moment": "^2.24.0",
